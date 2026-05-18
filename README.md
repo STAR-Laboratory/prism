@@ -11,7 +11,7 @@
 <sup>2</sup> NVIDIA &nbsp;&nbsp;
 <sup>*</sup> Equal contribution
 
-[Paper (PDF)](#) | [arXiv](#)
+[Paper (PDF)](https://jeonghyunwoo0306.github.io/assets/pdf/ISCA26_Loaded_Dice.pdf) | [arXiv](#)
 
 ---
 
